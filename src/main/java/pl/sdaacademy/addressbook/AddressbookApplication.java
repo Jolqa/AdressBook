@@ -1,12 +1,12 @@
-package pl.sdaacademy.adressbook;
+package pl.sdaacademy.addressbook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdressbookApplication {
+public class AddressbookApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AdressbookApplication.class, args);
+        SpringApplication.run(AddressbookApplication.class, args);
     }
 }
