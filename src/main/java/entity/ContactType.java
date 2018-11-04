@@ -1,6 +1,6 @@
 package entity;
 
-public enum ContctType {
+public enum ContactType {
     BUSINESS,
     PRIVATE,
     DELETED,
